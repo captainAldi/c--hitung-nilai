@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TES1
+namespace c__hitung_nilai
 {
     class Program
     {
@@ -79,8 +79,6 @@ namespace TES1
            } else {
                Console.WriteLine("Masukkan Angka !");
            }
-
-            
         }
     }
 }
